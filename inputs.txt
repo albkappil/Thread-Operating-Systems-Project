@@ -1,5 +1,0 @@
-tHello World
-n
-d 100
-tGood Bye
-n
