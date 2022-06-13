@@ -2,7 +2,7 @@
 Used Java programming to create multiple threads to process and output input text data from operating field command line.
 
 
-files:
+files: 
 	ComputerSystem.class - main class file compiled by program.
 	ComputerSystem.java - computer system class main program executes Bus and print output
 	InOut.java - the IO class that interprets the input file and sends it out to transfer device
